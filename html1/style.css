@@ -1,0 +1,26 @@
+h1 {
+    font-size: 75px;
+    color: firebrick;
+    background-color: cornsilk;
+    font-style: helvetica;
+    text-align: center;
+    border: firebrick;
+    border-width: 20px;
+    border-style: double;
+}
+
+h2 {
+    color: firebrick;
+    text-align: center;
+    font-variant: small-caps;
+    text-decoration: underline;
+
+}
+
+body {
+    background-color: cornsilk;
+    text-align: center;
+    text-shadow: firebrick .5px .5px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
