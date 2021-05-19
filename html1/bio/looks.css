@@ -1,0 +1,40 @@
+title,h1,h2 {
+    font-family: 'Pattaya', sans-serif;
+    font-variant: small-caps;
+    color:cornflowerblue ;
+    text-align: center;
+    
+}
+
+h1 {
+    text-shadow: black .5px .5px;
+    border: black;
+    border-style:double;
+    border-width: 10px;
+    border-radius: 15px;
+    font-family: 'Pattaya', sans-serif;   
+    background-color: slategrey;
+}
+
+h2 {
+    text-shadow: black .5px .5px;
+    text-decoration: underline;
+    font-variant: small-caps;
+}
+
+p {
+    color: cornflowerblue;
+    text-shadow: black;
+}
+
+body {
+    background-image: url("comp.jpeg");
+    text-align: center;
+    background-color: grey;
+}
+
+img {
+    ;
+}
+
+
